@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arborithm.github.io/Effortless/sitemap.xml
+Sitemap: https://arborithm.github.io/Kessho/sitemap.xml
+Sitemap: https://arborithm.github.io/Daimon/sitemap.xml
