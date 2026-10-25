@@ -1,6 +1,6 @@
 # arborithm.github.io
 
-Racine de l'hôte GitHub Pages d'ArboRithm. Elle ne sert que `robots.txt`, qui annonce les sitemaps des documentations :
+Racine de l'hôte GitHub Pages d'ArboRithm : une page d'accueil qui renvoie vers les documentations, et `robots.txt`, qui annonce leurs sitemaps :
 
 - https://arborithm.github.io/Effortless/
 - https://arborithm.github.io/Kessho/
